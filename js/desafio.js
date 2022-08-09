@@ -1,5 +1,5 @@
 //SENTENCIA IF ELSE
-
+/*
 let distancia = prompt ("Ingrese distancia:")
 let km = 50;
 let mensaje = "Deberá pagar 100$ por el viaje";
@@ -27,3 +27,4 @@ while(login === false) {
         alert("Email y/o contraseña no encontrados, intentelo de nuevo")
     }
 }
+*/
