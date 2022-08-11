@@ -4,7 +4,7 @@
 
 //Clases JS - sugar syntax
 
-const operador1 = {
+/* const operador1 = {
     nombre: "Abigail", 
     apellido: "rosales",
     cargo:"Servicio técnico",
@@ -20,10 +20,10 @@ const empleado = {
 
 
 const edad = 8
-const dommicilio = "coderhouse.com"
+const domicilio = "coderhouse.com"*/
 
-// fumción constructora
-// inicial sieempre en mayúscula
+// función constructora
+// inicial siempre en mayúscula
 
 /*function Empleado(nombre, apellido, cargo, ingreso) {
     this.nombre = nombre
@@ -35,8 +35,7 @@ const dommicilio = "coderhouse.com"
 const empelado1 = new Empleado("Abigail", "rosales", "Servicio técnico", 2001)
 const empelado2 = new Empleado("Abigail", "rosales", "Servicio técnico", 2002)
 const empelado3 = new Empleado("Abigail", "rosales", "Servicio técnico", 2003)
-
-function Producto (nombre, precio, stock) {
+ (precio, stock) {
     this.nombre = nombre
     this.precio = precio
     this.stock = stock
@@ -66,3 +65,10 @@ this.restarStock = function(unidades) {
 const prod1 = new Producto("Notebook 14 pulgadas", 150000, 20)
 const prod2 = new Producto("Notebook gamer", 220000, 25)
 const prod3 = new Producto("All in One 21 pulgadas", 120000, 40)*/
+/*
+const operador1 = {
+    nombre: "Abigail",
+    apellido: " Rosales",
+    cargo: "Operadora",
+    ingreso: "2001-03-09"
+}*/
